@@ -2,9 +2,38 @@
   "meta": {
     "username": "alansousa",
     "repositoryName": "alansousa.github.io",
-    "branch": "master"
+    "branch": "master",
+    "cname": ""
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "https://alansousa.github.io",
+    "hubpress": "https://alansousa.github.io",
+    "theme": "//alansousa.github.io/themes/casper",
+    "images": "https://alansousa.github.io/images"
+  },
+  "site": {
+    "title": "",
+    "description": "",
+    "logo": "",
+    "cover": "",
+    "delay": "",
+    "postsPerPage": "",
+    "googleAnalytics": "",
+    "disqus": ""
+  },
+  "socialnetwork": {
+    "email": "alan.os@outlook.com",
+    "github": "alansousa",
+    "twitter": "sousa_93",
+    "facebook": "alan011",
+    "googleplus": "",
+    "instagram": "alsousa93",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "alan-os",
+    "stackoverflow": ""
   }
 }
